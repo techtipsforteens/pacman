@@ -7,9 +7,9 @@ This is an HTML/Javascript version of Pacman made completely from scratch.
 Go to <a href="https://betas.techtipsforteens.com/pacman/">here</a>.
 
 <h2>To install to your web server...</h2>
-<em>Note: You only have to do this is you want to tweak around with the code.</em><br>
+<em>Note: You only have to do this is you want to tweak around with the code.</em><br><br>
 <code>cd THE DIRECTORY OF YOUR WEB SERVER</code><br>
-<code>git clone https://github.com/techtipsforteens/pacman.git</code><br>
+<code>git clone https://github.com/techtipsforteens/pacman.git</code><br><br>
 Or just download the zip and extract the files to your web server.<br>
 
-No additional steps needed its just plain HTM/CSS/Javascript.
+No additional steps needed, it's just plain HTM/CSS/Javascript.

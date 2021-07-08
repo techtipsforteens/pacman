@@ -4,7 +4,7 @@ This is an HTML/Javascript version of Pacman made completely from scratch.
 <img style="text-align: center;" src="https://techtipsforteens.com/images/pacman-demo.png">
 
 <h2>To Play...</h2>
-Go to <a href="https://betas.techtipsforteens.com/pacman/">here</a>.
+Go to <a href="https://betas.techtipsforteens.com/pacman/">here</a>. (You will need arrow keys to move around.)
 
 <h2>To install to your web server...</h2>
 <em>Note: You only have to do this is you want to tweak around with the code.</em><br><br>
